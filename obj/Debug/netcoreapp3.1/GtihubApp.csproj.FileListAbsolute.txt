@@ -146,3 +146,8 @@ D:\Gtihub projects\GtihubApp\obj\Debug\netcoreapp3.1\GtihubApp.csproj.CopyComple
 D:\Gtihub projects\GtihubApp\obj\Debug\netcoreapp3.1\GtihubApp.dll
 D:\Gtihub projects\GtihubApp\obj\Debug\netcoreapp3.1\GtihubApp.pdb
 D:\Gtihub projects\GtihubApp\obj\Debug\netcoreapp3.1\GtihubApp.genruntimeconfig.cache
+D:\Gtihub projects\GtihubApp\obj\Debug\netcoreapp3.1\Razor\Views\Emps\Create.cshtml.g.cs
+D:\Gtihub projects\GtihubApp\obj\Debug\netcoreapp3.1\Razor\Views\Emps\Delete.cshtml.g.cs
+D:\Gtihub projects\GtihubApp\obj\Debug\netcoreapp3.1\Razor\Views\Emps\Details.cshtml.g.cs
+D:\Gtihub projects\GtihubApp\obj\Debug\netcoreapp3.1\Razor\Views\Emps\Edit.cshtml.g.cs
+D:\Gtihub projects\GtihubApp\obj\Debug\netcoreapp3.1\Razor\Views\Emps\Index.cshtml.g.cs
